@@ -1,6 +1,9 @@
-NAMA : RAFLI ANUGRAH RAMADHAN
-NIM : 312410351
-KELAS : TI 24A4
+# Praktikum Modul Pemrograman Web 1
+Nama : AFLAH ATHALLAH TAMAM KAPUKONG
+
+NIM : 312410280
+
+KELAS : TI.24.A.4
 
 # TUGAS & PERTANYAAN
 
@@ -102,6 +105,10 @@ kolom)
 </html>
 ```
 
+#OUTPUT
+
+![gambar](https://github.com/fliiiiiiii/Lab6Web./blob/c9b8331ac87fff116784789a7666296da1bc520e/image/Screenshot%202025-10-30%20134218.png)
+
 2. Refactor Form Praktikum 5
 Ambil salah satu form dari Praktikum 5 (misalnya Form Input 23atau Form Button 24).
 Buat ulang form tersebut agar terlihat rapi menggunakan class-class form Bootstrap (.form-
@@ -153,6 +160,10 @@ control, .form-label, .btn).
 </body>
 </html>
 ```
+
+#OUTPUT 
+
+![gambar](https://github.com/fliiiiiiii/Lab6Web./blob/c9b8331ac87fff116784789a7666296da1bc520e/image/Screenshot%202025-10-30%20134257.png)
 
 3. Tugas: Buat Halaman Portfolio Sederhana
 Buat satu halaman HTML baru (portfolio.html) menggunakan Bootstrap yang berisi:
@@ -250,5 +261,8 @@ gambar dummy dan deskripsi singkat).
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
 ```
+
+#OUTPUT
+
+![gambar](https://github.com/fliiiiiiii/Lab6Web./blob/c9b8331ac87fff116784789a7666296da1bc520e/image/Screenshot%202025-10-30%20135732.png)
